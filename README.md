@@ -3,7 +3,7 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
 
 ## Session 1
 - Thursday 12/14/2023
-  - Important terminologies and foundational concept
+  - Important terminologies and foundational concepts
   - Experiments, Sets, and Events
   - Independance and Exclusivity
   - Review of Combinatorics
