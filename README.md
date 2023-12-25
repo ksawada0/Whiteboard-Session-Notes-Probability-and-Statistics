@@ -8,3 +8,28 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
   - Independance and Exclusivity
   - Review of Combinatorics
 - Participants: Dr. Krishnamachari, Elizabeth O, Kae S
+
+## Session 2
+- Thursday 12/21/2023
+  - Conditioal probability
+  - Joint probability
+  - Marginalization
+  - Law of Total Probability
+  - Bayes Law
+  - Birthday Paradox
+  - AI doom
+  - Monte Hall Puzzle
+  - Belief Network (Bayesian Network)
+ 
+## Session 3 (Future Session)
+- Random variable, pmf, pdf, cdf
+- Expectation and variance
+  - Aside on higher moments: skew and kurtosis)
+- Frequentist statistics: Point estimate and confidence intervals
+- Bayesian statistics: posterior distribution of point estimate, credible intervals
+- Tail inequalities
+  - (v. briefly) Moment generating function and characteristic function of a random variable
+- Specific random variable families
+- Simulating a random variable
+- Function of a random variable
+- Expectations of function
