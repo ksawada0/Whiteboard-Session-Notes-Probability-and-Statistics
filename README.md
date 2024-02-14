@@ -20,9 +20,16 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
   - AI doom
   - Monte Hall Puzzle
   - Belief Network (Bayesian Network)
+- Participants: Dr. Krishnamachari, Elizabeth O, Kae S
+
+## Session 3
+- [Friday 02/09/2024]([https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2023-12-16-Whiteboard-Session-Probability-and-Statistics.ipynb](https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2024-02-09-Whiteboard-Session-Probability-and-Statistics.ipynb))
+  - Conditinuous random variables
+  - Probability density function (PDF)
+  - Cumulative distribution function (CDF)
+- Participants: Dr. Krishnamachari, Tamoghna S, Elizabeth O, Kae S
  
-## Session 3 (Future Session)
-- Random variable, pmf, pdf, cdf
+## Session x (Future Session)
 - Expectation and variance
   - Aside on higher moments: skew and kurtosis)
 - Frequentist statistics: Point estimate and confidence intervals
