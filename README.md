@@ -28,10 +28,25 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
   - Probability density function (PDF)
   - Cumulative distribution function (CDF)
 - Participants: Dr. Krishnamachari, Tamoghna S, Elizabeth O, Kae S
- 
+
+## Session 4
+- [Friday 02/16/2024](https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2024-02-16-Whiteboard-Session-Probability-and-Statistics.ipynb)
+  - Common Random Variables (r.v.)
+      - Descrete
+          - Bernoulli
+          - Geometric
+          - Binomital
+      - Continuous
+          - Exponential
+          - Gaussian and Nomal
+          - Uniform
+  - Expected Values
+  - [Riemann–Stieltjes integral](https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral)
 ## Session x (Future Session)
-- Expectation and variance
+- Expectation and variance (Continued)
   - Aside on higher moments: skew and kurtosis)
+  - Real life application ([Simulating COVID19 Clasasroom Transmission on a University Campus](https://anrg.usc.edu/www/papers/Simulating_COVID_19_classroom_transmission_on_a_university_campus.pdf))
+- Riemann–Stieltjes integral
 - Frequentist statistics: Point estimate and confidence intervals
 - Bayesian statistics: posterior distribution of point estimate, credible intervals
 - Tail inequalities
