@@ -45,13 +45,15 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
   
 ## Session 5
 - [Friday 03/04/2024](https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2024-03-04-Whiteboard-Session-Probability-and-Statistics.ipynb)
-  - Problems to do with linearity of expectation
-  - Expectation of positive random variables
-  - Tail inequalities that relate cdf bounds to expectation and variance 
-      - Markov
-      - Chebyshev
+    - Problems to do with linearity of expectation
+    - Expectation of positive random variables
+    - Tail inequalities that relate cdf bounds to expectation and variance 
+      - Linearity and Expectation
+      - Markov's Inequality
+      - Chebyshev's Inequality
       - Chernoff)
-      - laws of large numbers
+    - Covariance and Correlation Coefficient
+    - Jointly Gaussian 
   
   
 ## Session x (Future Session)
@@ -59,8 +61,6 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
   - Aside on higher moments: skew and kurtosis)
   - Real life application ([Simulating COVID19 Clasasroom Transmission on a University Campus](https://anrg.usc.edu/www/papers/Simulating_COVID_19_classroom_transmission_on_a_university_campus.pdf))
 - Riemann–Stieltjes integral
-- Frequentist statistics: Point estimate and confidence intervals
-- Bayesian statistics: posterior distribution of point estimate, credible intervals
 - Tail inequalities
   - (v. briefly) Moment generating function and characteristic function of a random variable
 - Specific random variable families
