@@ -42,6 +42,18 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
           - Uniform
   - Expected Values
   - [Riemann–Stieltjes integral](https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral)
+  
+## Session 5
+- [Friday 03/04/2024](https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2024-03-04-Whiteboard-Session-Probability-and-Statistics.ipynb)
+  - Problems to do with linearity of expectation
+  - Expectation of positive random variables
+  - Tail inequalities that relate cdf bounds to expectation and variance 
+      - Markov
+      - Chebyshev
+      - Chernoff)
+      - laws of large numbers
+  
+  
 ## Session x (Future Session)
 - Expectation and variance (Continued)
   - Aside on higher moments: skew and kurtosis)
@@ -55,3 +67,15 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
 - Simulating a random variable
 - Function of a random variable
 - Expectations of function
+
+- How to simulate any arbitrary random variable given a uniform random number generator
+- Continuous time Markov chains
+- Queuing theory
+- Continuous time Gaussian process
+- Power spectral density and filtering a random process through a linear time invariant filter
+- Kalman Filters
+- LQG control
+- Markov Decision Process
+- Multi-armed Bandits
+- Basics of detection and estimation theory
+- Information theory
