@@ -51,7 +51,6 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
       - Linearity and Expectation
       - Markov's Inequality
       - Chebyshev's Inequality
-      - Chernoff)
     - Covariance and Correlation Coefficient
     - Jointly Gaussian 
   
@@ -63,6 +62,7 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
 - Riemann–Stieltjes integral
 - Tail inequalities
   - (v. briefly) Moment generating function and characteristic function of a random variable
+  - Chernoff bound
 - Specific random variable families
 - Simulating a random variable
 - Function of a random variable
