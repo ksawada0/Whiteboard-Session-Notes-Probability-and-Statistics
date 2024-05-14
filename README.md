@@ -63,6 +63,7 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
 ## Session 7
 - [Friday 03/22/2024](https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2024-03-22-Whiteboard-Session-Probability-and-Statistics.ipynb)
     - MGF (Moment Generating Functions)
+    - Characteristic Functions
 
   
 ## Session x (Future Session)
