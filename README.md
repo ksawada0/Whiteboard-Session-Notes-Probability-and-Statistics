@@ -53,7 +53,17 @@ The purpose of this repository is to store/share notes from the whiteboard sessi
       - Chebyshev's Inequality
     - Covariance and Correlation Coefficient
     - Jointly Gaussian 
-  
+    
+## Session 6
+- [Friday 03/21/2024](https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2024-03-21-Whiteboard-Session-Probability-and-Statistics.ipynb)
+    - LLN (Law of Large Number)
+    - WLLN (Weak Law of Large Number)
+    - SLLN (Strong Law of Large Number)
+    
+## Session 7
+- [Friday 03/22/2024](https://github.com/ksawada0/Whiteboard-Session-Notes-Probability-and-Statistics/blob/main/2024-03-22-Whiteboard-Session-Probability-and-Statistics.ipynb)
+    - MGF (Moment Generating Functions)
+
   
 ## Session x (Future Session)
 - Expectation and variance (Continued)
